@@ -1,0 +1,5 @@
+fastapi==0.111.0
+dill
+nltk==3.8.1
+pandas
+scikit-learn==1.5.1
